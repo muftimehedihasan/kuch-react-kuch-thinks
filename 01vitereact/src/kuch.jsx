@@ -4,4 +4,4 @@
     )
  }
 
- export default Kuch;
+ export default Kuch
